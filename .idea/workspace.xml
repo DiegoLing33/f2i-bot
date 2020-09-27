@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f276f7e7-91de-4f67-b471-9d91171f9ab5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/TelegramBot.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/TelegramBot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bot/TelegramBotUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/bot/TelegramBotUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Base64.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Base64.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -57,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601229448485</updated>
-      <workItem from="1601229449636" duration="12086000" />
+      <workItem from="1601229449636" duration="12200000" />
     </task>
     <task id="LOCAL-00001" summary="Added example of the .env file">
       <created>1601243070181</created>
@@ -73,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601243244673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added readme.md file">
+      <created>1601243404110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601243404110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,10 +104,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1601243042761" />
-    <state x="857" y="209" key="CommitChangelistDialog2" timestamp="1601243244575">
+    <state x="857" y="209" key="CommitChangelistDialog2" timestamp="1601243404004">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="857" y="209" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1601243244575" />
+    <state x="857" y="209" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1601243404004" />
     <state x="1151" y="628" key="Github.ShareDialog" timestamp="1601243014502">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -120,10 +132,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2518" height="419" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1601235912084" />
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1601243246933">
+    <state x="781" y="359" key="SettingsEditor" timestamp="1601243496942">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="880" y="456" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1601243246933" />
+    <state x="781" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1601243496942" />
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2" timestamp="1601243406903">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="456" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1601243406903" />
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1601243198548">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
