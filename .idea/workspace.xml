@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f276f7e7-91de-4f67-b471-9d91171f9ab5" name="Default Changelist" comment="" />
+    <list default="true" id="f276f7e7-91de-4f67-b471-9d91171f9ab5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env-examle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601229448485</updated>
-      <workItem from="1601229449636" duration="11792000" />
+      <workItem from="1601229449636" duration="11825000" />
     </task>
     <servers />
   </component>
@@ -66,10 +68,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601232101617">
+    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601243042761">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1601232101617" />
+    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1601243042761" />
     <state x="1151" y="628" key="Github.ShareDialog" timestamp="1601243014502">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
