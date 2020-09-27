@@ -1,6 +1,6 @@
 # F2I Bot • 0.1
 
-Telegram bot that can uses F2I library. Bot converts text to image and back again. Use it for fun.
+Telegram bot that uses F2I library. Bot converts text to image and back again. Use it for fun.
 
 ---
 ## How it works?
