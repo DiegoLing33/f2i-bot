@@ -1,0 +1,20 @@
+{
+  "name": "f2i-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "install": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "f2i": "0.1.9",
+    "telegraf": "^3.38.0",
+    "typescript": "^4.0.3"
+  }
+}

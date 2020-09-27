@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f276f7e7-91de-4f67-b471-9d91171f9ab5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i6YKv8I6HomWwviiiBju1xMrj6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f276f7e7-91de-4f67-b471-9d91171f9ab5" name="Default Changelist" comment="" />
+      <created>1601229448485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601229448485</updated>
+      <workItem from="1601229449636" duration="11792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601232101617">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1015" y="520" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1601232101617" />
+    <state x="1151" y="628" key="Github.ShareDialog" timestamp="1601243014502">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1151" y="628" key="Github.ShareDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601243014502" />
+    <state x="1052" y="350" key="Github.UntrackedFilesDialog" timestamp="1601243022554">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1052" y="350" key="Github.UntrackedFilesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601243022554" />
+    <state width="2518" height="419" key="GridCell.Tab.0.bottom" timestamp="1601235912084">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="419" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1601235912084" />
+    <state width="2518" height="419" key="GridCell.Tab.0.center" timestamp="1601235912083">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="419" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1601235912083" />
+    <state width="2518" height="419" key="GridCell.Tab.0.left" timestamp="1601235912083">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="419" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1601235912083" />
+    <state width="2518" height="419" key="GridCell.Tab.0.right" timestamp="1601235912084">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="419" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1601235912084" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1601235772098">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1601235772098" />
+  </component>
+</project>
